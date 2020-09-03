@@ -13,3 +13,8 @@ and create model folder in IMD/Retinaface. and Move to downloaded file in model 
 - You can run Face and Mask detection algorithm with Detection_MaskwithFace.py  
 - When installing the MXNet-GPU library, you need to install a versing that matches your cuda version to avoid any problems. (Support CUDA < 11.0)
 
+## Quick Start
+
+```python
+$ python Detection_MaskwithFace.py
+```
